@@ -7,7 +7,7 @@ function submit(){
     if(email == "arfa333@gmail.com" && pass == 1234){
         islogin = true
         if(islogin){
-            location.replace
+            location.replace('dashboard.html')
         }
     }
     console.log("islogin :"+islogin)
