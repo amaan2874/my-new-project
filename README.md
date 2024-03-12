@@ -1,2 +1,2 @@
 # my-new-project
-auther - AMAAN RAZA
+auther - MOHAMMAD AMAAN RAZA
