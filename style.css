@@ -4,3 +4,29 @@ body{
 .btn{
   float: right;
 }
+.btn1{
+  background-color: green;
+  color: white;
+}
+.btn1:hover{
+  background: linear-gradient(
+    to right,
+    rgb(43, 255, 0),
+    rgb(0, 217, 255)
+  );
+}
+.btn2{
+  background-color: red;
+  color: white;
+}
+.btn2:hover{
+  background: linear-gradient(
+    to right,
+    red,
+    orange
+  );
+}
+
+table{
+  background-color: yellow;
+}
